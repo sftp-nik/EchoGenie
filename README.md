@@ -16,8 +16,8 @@ This project is a simple voice-activated assistant using Python, capable of perf
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your_username/alexa-voice-assistant.git
-   cd alexa-voice-assistant
+   git clone https://github.com/sftp-nik/voiceassistance.git
+   cd voiceassistance 
    ```
 
 2. **Install the required packages:**
