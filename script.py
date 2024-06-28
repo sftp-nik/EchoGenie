@@ -90,6 +90,9 @@ def run_alexa():
     elif 'stop' in command or 'exit' in command:
         talk("Goodbye!")
         exit()
+
+    # you can add your own statement
+    
     else:
         talk("Sorry, I can't help with that.")
 
