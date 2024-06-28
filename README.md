@@ -43,12 +43,6 @@ This project is a simple voice-activated assistant using Python, capable of perf
    - To get information from Wikipedia: `Alexa, who is [person's name]?`
    - To stop the assistant: `Alexa, stop` or `Alexa, exit`
 
-## Note
-
-- Ensure your microphone is properly set up and working.
-- Replace `"your_username"` in the clone URL with your actual GitHub username.
-- For weather information, replace the city in the `get_weather` function URL as per your requirement.
-
 ## Contributing
 
 Contributions are welcome! Please create a pull request with your enhancements.
