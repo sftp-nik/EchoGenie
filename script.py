@@ -6,7 +6,6 @@ import wikipedia
 import requests
 from bs4 import BeautifulSoup
 
-# Initialize speech recognition, text-to-speech, and voice settings
 listener = sr.Recognizer()
 engine = pyttsx3.init()
 voices = engine.getProperty('voices')
