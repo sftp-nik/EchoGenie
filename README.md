@@ -1,4 +1,5 @@
-# Alexa Voice Assistant
+# EchoGenie
+## Alexa Voice Assistant
 
 This project is a simple voice-activated assistant using Python, capable of performing various tasks such as playing songs on YouTube, providing the current date and time, fetching weather information, and retrieving summaries from Wikipedia.
 
