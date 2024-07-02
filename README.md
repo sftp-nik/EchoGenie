@@ -16,8 +16,8 @@ This project is a simple voice-activated assistant using Python, capable of perf
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/sftp-nik/voiceassistance.git
-   cd voiceassistance 
+   git clone https://github.com/sftp-nik/EchoGenie.git
+   cd EchoGenie
    ```
 
 2. **Install the required packages:**
@@ -50,5 +50,3 @@ Contributions are welcome! Please create a pull request with your enhancements.
 ## License
 
 This project is licensed under the MIT License.
-
-
