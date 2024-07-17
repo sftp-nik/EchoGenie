@@ -28,7 +28,7 @@ This project is a simple voice-activated assistant using Python, capable of perf
 
 3. **Run the script:**
    ```sh
-   python script.py
+   python main.py
    ```
 
 ## Usage
