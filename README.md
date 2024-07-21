@@ -13,7 +13,7 @@ This project is a simple voice-activated assistant using Python, capable of perf
 - **Wikipedia Integration**: Retrieves and reads out summaries from Wikipedia.
 - **Exit Command**: Stops the assistant on voice command.
 
-## Installation
+## Installation on Linux
 
 1. **Clone the repository:**
    ```sh
@@ -31,6 +31,14 @@ This project is a simple voice-activated assistant using Python, capable of perf
    python main.py
    ```
 
+## Installation on Windows or MAC (GUI)
+
+1. **Download the zip file of this repo**
+2. **Extract the zip file**
+3. **open the `main.py` file**
+4. **Run the file**
+
+   
 ## Usage
 
 1. **Start the assistant:**
